@@ -2,3 +2,7 @@
 // for details on configuring this project to bundle and minify static web assets.
 
 // Write your JavaScript code.
+//vendor1-dev changes
+//vendor1-dev more changes
+//more more changes
+//more changes
