@@ -1,5 +1,4 @@
-﻿/*update from master-dev
- Second update*/
+﻿/*Update from master*/
 
 using System;
 using System.Collections.Generic;
